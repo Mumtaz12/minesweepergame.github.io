@@ -4,6 +4,7 @@
 #### _Game of Minesweeper, Start:-January 13, 2023 End Date January 25, 2023_
 
 #### By _**Mohammad Mumtaz**_
+https://mumtaz12.github.io/minesweepergame.github.io
 
 ## Description
 
